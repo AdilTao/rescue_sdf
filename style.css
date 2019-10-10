@@ -1,0 +1,13 @@
+/*Ma première feuille CSS*/
+
+p{
+    color: black;
+}
+
+.contactmail{
+    color:blue;
+}
+
+#para_objectif_site{
+    color: green;
+}
