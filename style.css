@@ -1,5 +1,16 @@
 /*Ma première feuille CSS*/
 
+body {
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
 p{
     color: black;
 }
@@ -11,3 +22,4 @@ p{
 #para_objectif_site{
     color: green;
 }
+
